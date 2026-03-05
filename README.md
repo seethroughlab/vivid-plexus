@@ -5,6 +5,10 @@
 - `Plexus` (GPU)
 - `PlexusSynth` (audio)
 
+## Preview
+
+![vivid-plexus preview](docs/images/preview.png)
+
 ## Contents
 
 - `src/plexus.cpp`
