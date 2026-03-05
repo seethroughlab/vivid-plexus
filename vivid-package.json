@@ -1,7 +1,7 @@
 {
   "name": "vivid-plexus",
   "version": "0.1.0",
-  "description": "Plexus GPU + audio operators extracted from vivid-core",
+  "description": "Plexus GPU + audio package library for Vivid",
   "build": "cmake",
   "operators": ["plexus", "plexus_synth"]
 }

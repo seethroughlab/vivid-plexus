@@ -1,6 +1,6 @@
 # vivid-plexus
 
-`vivid-plexus` is an extracted Vivid package that provides:
+`vivid-plexus` is a Vivid package library that provides:
 
 - `Plexus` (GPU)
 - `PlexusSynth` (audio)
